@@ -42,7 +42,7 @@ I used some limitations in the project to sharpen my creativity:
 
 ---
 
-### Requirements
+### :pushpin: Requirements
 You need to have the following installed:
 
 > A code editor, such as **VS Code**, or an IDE like **Code::Blocks**.
@@ -78,7 +78,7 @@ To run the program:
 
 ---
 
-### Technologies
+### :rocket: Technologies
 > Language C ANSI
 
 
